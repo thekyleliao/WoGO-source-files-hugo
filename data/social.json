@@ -1,0 +1,15 @@
+{
+  "links": [
+    
+    {
+      "name": "devpost",
+      "url": "https://devpost.com/thekyleliao",
+      "image": "images/social/devpost.png"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/thekyleliao",
+      "image": "images/social/github.svg"
+    }
+  ]
+}
